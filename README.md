@@ -1,4 +1,3 @@
-# APJ-Portfolio
 # CS-210 Project 3
 
 # Summarize the project and what problem it was solving.
